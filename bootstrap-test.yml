@@ -1,13 +1,2 @@
-server:
-  port: 8099
-
-spring:
-  application:
-    name: bootstrap-test
-  cloud:
-    nacos:
-      discovery:
-        server-addr: 10.120.22.66:8848
-      config:
-        server-addr: 10.120.22.66:8848
-        file-extension: yaml
+config:
+  info: test-bootstrap-info
