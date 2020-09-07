@@ -1,6 +1,3 @@
 config:
-<<<<<<< HEAD
   info: dev-config-info11
-=======
-  info: test-config-info22
->>>>>>> 3685fadf0fbbfdc783f28a08952e5def76bbb809
+
